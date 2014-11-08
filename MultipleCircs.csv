@@ -1,4 +1,4 @@
-RECORD #(BIBLIO),TITLE,AUTHOR,008 Date One,260|b,260|c,CALL #(BIBLIO),TOT CHKOUT,LOUTDATE
+RECORD #(BIBLIO),TITLE,AUTHOR,pubyr,260|b,260|c,CALL #(BIBLIO),TOT CHKOUT,LOUTDATE
 b23861927,Making meetings work : achieving high quality group decisions / John E. Tropman.,"Tropman, John E.",1996,"Sage Publications,",c1996.,AS6 .T743 1996,12,3/5/2012 11:44
 b2641725x,"Memoirs of extraordinary popular delusions;""Extraordinary popular delusions and the madness of crowds / [by Charles Mackay] and Confusiûòn de confusiones / [by Josef Penso de la Vega]   Martin S. Fridson, editor.""","Mackay, Charles, 1814-1889.",1996,"Wiley,",1996,AZ999 .M2 1996,13,1/25/2012 10:21
 b35972233,The 48 laws of power / Robert Greene.,"Greene, Robert.",2000,"Penguin Books,",2000,BD438 .G74 2000,23,9/3/2014 7:12
